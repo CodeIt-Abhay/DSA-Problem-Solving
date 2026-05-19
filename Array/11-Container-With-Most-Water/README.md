@@ -29,3 +29,4 @@ Return *the maximum amount of water a container can store*.
 * $n == \text{height.length}$
 * $2 \le n \le 10^5$
 * $0 \le \text{height}[i] \le 10^4$
+
