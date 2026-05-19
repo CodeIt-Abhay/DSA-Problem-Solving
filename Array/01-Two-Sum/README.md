@@ -1,4 +1,3 @@
-```markdown
 # 001. Two Sum
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)

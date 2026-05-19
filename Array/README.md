@@ -85,13 +85,3 @@ This repository contains **LeetCode Array problems solved topic-wise** with:
 | Greedy Concepts | ✅ |
 
 ---
-
-# 📂 Folder Structure
-
-```bash
-Array/
-│
-├── Easy/
-├── Medium/
-├── Hard/
-└── README.md
