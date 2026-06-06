@@ -16,7 +16,7 @@
 // }
 
 // Time Complexity: O(n * sum)
-// Space Complexity: O(n * sum)
+// Space Complexity: O(sum)
 
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
